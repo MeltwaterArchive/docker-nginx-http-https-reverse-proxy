@@ -16,7 +16,15 @@ Exposes a health endpoint at `/_health`.
 
 ## License
 
-This container is licensed under the MIT license.
+The all files in this repository are licensed under the MIT license.
+
+## Nginx License
+
+Copyright (C) 2011-2016 Nginx, Inc.
+All rights reserved.
+
+Additional license information for Nginx may be found at
+https://github.com/nginxinc/docker-nginx.
 
 ## Warranty
 
