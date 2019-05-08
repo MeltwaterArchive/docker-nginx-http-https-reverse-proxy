@@ -16,7 +16,7 @@ Exposes a health endpoint at `/_health`.
 
 ## License
 
-The all files in this repository are licensed under the MIT license.
+The files in this repository are licensed under the MIT license.
 
 ## Nginx License
 
